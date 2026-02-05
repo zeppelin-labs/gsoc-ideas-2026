@@ -12,7 +12,7 @@ We welcome contributions to ZestAPI. This guide outlines how to set up your envi
 1. **Fork and Clone**
 
    ```bash
-git clone https://github.com/madnansultandotme/zestapi-python.git
+git clone https://github.com/madnansultandotme/zestapi.git
 cd zestapi-python
 ```
 
